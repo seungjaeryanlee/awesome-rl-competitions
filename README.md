@@ -1,2 +1,27 @@
-# awesome-rl-competitions
-List of competitions related to Reinforcement Learning
+# Awesome RL Competitions
+Collection of competitions for Reinforcement Learning
+
+## Ongoing Competitions
+
+| Began      | Ends       | Conference | Competition |
+| ---------- | ---------- | ---------- | ----------- |
+| 2019-02-11 | 2019-08-01 | N/A | [Obstacle Tower Challenge](https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge) |
+
+## Upcoming Competitions
+
+| Begins     | Ends       | Conference | Competition |
+| ---------- | ---------- | ---------- | ----------- |
+| 2019-06    | 2019-12    | NeurIPS 2019 | [The Animal-AI Olympics](http://animalaiolympics.com) |
+| 2019-06    | 2019-11    | NeurIPS 2019 | [Learning to Move: Walk Around](https://www.aicrowd.com/challenges/neurips-2019-learning-to-move-walk-around) |
+| 2019-06-01 | 2019-10-25 | NeurIPS 2019 | [MineRL Competition 2019](http://minerl.io/competition/) |
+| 2019-08-06 | 2019-12-23 | NeurIPS 2019 | [Reconnaissance Blind Chess](https://secwww.jhuapl.edu/ReconBlindChess/) |
+| TBD        | TBD        | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
+
+
+
+
+## Past Competitions
+
+| Began      | Ended      | Conference | Competition |
+| ---------- | ---------- | ---------- | ----------- |
+| 2019-04-05 | 2019-06-05 | N/A | [OpenAI Retro Contest](https://openai.com/blog/retro-contest/) |
