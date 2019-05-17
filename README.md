@@ -18,12 +18,13 @@ Collection of competitions for Reinforcement Learning
 | 2019-06-01 | 2019-10-25 | NeurIPS 2019 | [MineRL Competition 2019](http://minerl.io/competition/) |
 | 2019-08-06 | 2019-12-23 | NeurIPS 2019 | [Reconnaissance Blind Chess](https://secwww.jhuapl.edu/ReconBlindChess/) |
 | TBD        | TBD        | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
-
-
+| TBD        | TBD        | NeurIPS 2019 | Robot Open-Ended Autonomous Learning Challenge |
+| TBD        | TBD        | NeurIPS 2019 | Disentanglement Challenge |
 
 
 ## Past Competitions
 
 | Began      | Ended      | Conference | Competition |
 | ---------- | ---------- | ---------- | ----------- |
-| 2019-04-05 | 2019-06-05 | N/A | [OpenAI Retro Contest](https://openai.com/blog/retro-contest/) |
+| 2018-04-05 | 2018-06-05 | N/A | [OpenAI Retro Contest](https://openai.com/blog/retro-contest/) |
+| 2018-06-16 | 2018-11-06 | NeurIPS 2018 | [AI for Prosthetics Challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) |
