@@ -7,6 +7,7 @@ Collection of competitions for Reinforcement Learning
 | ---------- | ---------- | ---------- | ----------- |
 | 2018-12-08 | 2019-06-30 | N/A | [First TextWorld Problems](https://competitions.codalab.org/competitions/20865) |
 | 2019-02-11 | 2019-08-01 | N/A | [Obstacle Tower Challenge](https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge) |
+| 2019-06-08 | 2019-10-25 | NeurIPS 2019 | [MineRL Competition 2019](http://minerl.io/competition/) |
 
 ## Upcoming Competitions
 
@@ -14,7 +15,6 @@ Collection of competitions for Reinforcement Learning
 | ---------- | ---------- | ---------- | ----------- |
 | 2019-06    | 2019-12    | NeurIPS 2019 | [The Animal-AI Olympics](http://animalaiolympics.com) |
 | 2019-06    | 2019-11    | NeurIPS 2019 | [Learning to Move: Walk Around](https://www.aicrowd.com/challenges/neurips-2019-learning-to-move-walk-around) |
-| 2019-06-08 | 2019-10-25 | NeurIPS 2019 | [MineRL Competition 2019](http://minerl.io/competition/) |
 | 2019-08-06 | 2019-12-23 | NeurIPS 2019 | [Reconnaissance Blind Chess](https://secwww.jhuapl.edu/ReconBlindChess/) |
 | TBD        | TBD        | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
 | TBD        | TBD        | NeurIPS 2019 | Robot Open-Ended Autonomous Learning Challenge |
