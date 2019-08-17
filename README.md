@@ -5,19 +5,19 @@ Collection of competitions for Reinforcement Learning
 
 | Status  | Began      | Ends       | Conference | Competition |
 | ------- | ---------- | ---------- | ---------- | ----------- |
-| N/A     | N/A        | N/A        | N/A | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
-| Beta    | 2019-06-03 | 2019-10-15 | NeurIPS 2019 | [Robot Open-Ended Autonomous Learning Challenge](https://www.aicrowd.com/challenges/neurips-2019-robot-open-ended-autonomous-learning) |
+| Round 1 | 2019-06-03 | 2019-10-15 | NeurIPS 2019 | [Robot Open-Ended Autonomous Learning Challenge](https://www.aicrowd.com/challenges/neurips-2019-robot-open-ended-autonomous-learning) |
 | Round 1 | 2019-06-06 | 2019-11    | NeurIPS 2019 | [Learning to Move: Walk Around](https://www.aicrowd.com/challenges/neurips-2019-learning-to-move-walk-around) |
 | Round 1 | 2019-06-08 | 2019-10-25 | NeurIPS 2019 | [MineRL Competition 2019](https://www.aicrowd.com/challenges/neurips-2019-minerl-competition) |
-| N/A     | 2019-07-01 | 2019-11-21 | NeurIPS 2019 | [Game of Drones](https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/) |
+| Qualification Round     | 2019-07-01 | 2019-11-21 | NeurIPS 2019 | [Game of Drones](https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/) |
 | Started | 2019-07-01 | 2019-12    | NeurIPS 2019 | [The Animal-AI Olympics](http://animalaiolympics.com) |
 | Round 1 | 2019-07-22 | 2019-12-01 | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
+| Test Tournament 1 | 2019-08-06 | 2019-12-23 | NeurIPS 2019 | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
+| N/A     | N/A        | N/A        | N/A | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 
 ## Upcoming Competitions
 
 | Status  | Begins     | Ends       | Conference | Competition |
 | ------- | ---------- | ---------- | ---------- | ----------- |
-| Register | 2019-08-06 | 2019-12-23 | NeurIPS 2019 | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
 | N/A     | - | 2019-11-08 | NeurIPS 2019 | [Pommerman Competition](https://www.pommerman.com/competitions) |
 
 ## Past Competitions
