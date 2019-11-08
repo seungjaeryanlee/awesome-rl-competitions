@@ -8,7 +8,7 @@ Collection of competitions for Reinforcement Learning
 | Qualification Round     | 2019-07-01 | 2019-11-21 | NeurIPS 2019 | [Game of Drones](https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/) |
 | Final Round | 2019-06-08 | 2019-11-25 | NeurIPS 2019 | [MineRL Competition 2019](https://www.aicrowd.com/challenges/neurips-2019-minerl-competition) |
 | Round 1 | 2019-06-03 | 2019-12-06 | NeurIPS 2019 | [Robot Open-Ended Autonomous Learning Challenge](https://www.aicrowd.com/challenges/neurips-2019-robot-open-ended-autonomous-learning) |
-| Round 2 | 2019-07-22 | 2019-01-05 | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
+| Round 2 | 2019-07-22 | 2020-01-05 | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
 | N/A     | N/A        | N/A        | N/A | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 
 ## Upcoming Competitions
