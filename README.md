@@ -11,7 +11,6 @@ Collection of competitions for Reinforcement Learning
 
 | Status  | Begins     | Ends       | Conference | Competition |
 | ------- | ---------- | ---------- | ---------- | ----------- |
-| N/A     | - | 2019-11-08 | NeurIPS 2019 | [Pommerman Competition](https://www.pommerman.com/competitions) |
 
 ## Past Competitions
 
@@ -25,6 +24,7 @@ Collection of competitions for Reinforcement Learning
 | N/A     | 2019-08-06 | 2019-10-21? | NeurIPS 2019 | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
 | N/A     | 2019-06-06 | 2019-10-27 | NeurIPS 2019 | [Learning to Move: Walk Around](https://www.aicrowd.com/challenges/neurips-2019-learning-to-move-walk-around) |
 | N/A     | 2019-07-01 | 2019-11-01 | NeurIPS 2019 | [The Animal-AI Olympics](http://animalaiolympics.com) |
+| N/A     | - | 2019-11-08 | NeurIPS 2019 | [Pommerman Competition](https://www.pommerman.com/competitions) |
 | N/A     | 2019-07-01 | 2019-11-21 | NeurIPS 2019 | [Game of Drones](https://www.microsoft.com/en-us/research/academic-program/game-of-drones-competition-at-neurips-2019/) |
 | N/A     | 2019-06-08 | 2019-11-25 | NeurIPS 2019 | [MineRL Competition 2019](https://www.aicrowd.com/challenges/neurips-2019-minerl-competition) |
 | N/A     | 2019-06-03 | 2019-12-06 | NeurIPS 2019 | [Robot Open-Ended Autonomous Learning Challenge](https://www.aicrowd.com/challenges/neurips-2019-robot-open-ended-autonomous-learning) |
