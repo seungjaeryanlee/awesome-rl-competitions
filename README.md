@@ -6,6 +6,7 @@ Collection of competitions for Reinforcement Learning
 | Status  | Began      | Ends       | Conference | Competition |
 | ------- | ---------- | ---------- | ---------- | ----------- |
 | N/A     | N/A        | N/A        | N/A | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
+| N/A     | 2020-03-08 | 2020-04-30 | ICRA 2020 | [GOSEEK Challenge](https://github.com/MIT-TESSE/goseek-challenge) |
 
 ## Upcoming Competitions
 
