@@ -8,6 +8,7 @@ Collection of competitions for Reinforcement Learning
 | Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 | Started | 2020-03-08 | 2020-05-20* | ICRA 2020  | [GOSEEK Challenge](https://github.com/MIT-TESSE/goseek-challenge) |
+| Prep    | TBD        | TBD         | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
 
 * `*` denote extensions due to COVID-19.
 
