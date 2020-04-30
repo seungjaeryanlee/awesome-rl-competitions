@@ -7,6 +7,7 @@ Collection of competitions for Reinforcement Learning
 | ------- | ---------- | ----------- | ---------- | ----------- |
 | Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
+| Started | 2020/02/17 | 2020/07/31  | PPSN 2020, IEEE COG 2020 | [GVGAI Learning Competition](http://www.aingames.cn/gvgai/ppsn_cog2020) |
 | Started | 2020-03-08 | 2020-05-20* | ICRA 2020  | [GOSEEK Challenge](https://github.com/MIT-TESSE/goseek-challenge) |
 | Prep    | TBD        | TBD         | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
 
