@@ -6,8 +6,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
-| Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
-| Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 | Started | - | 2020-06-15 | WCCI 2020 | [Evoman: Game-playing Competition](http://pesquisa.ufabc.edu.br/hal/Evoman.html) |
 | Started | - | 2020-07-01 | CoG 2020   | [Hearthstone AI Competition](https://dockhorn.antares.uberspace.de/wordpress/) |
 | Started | 2020-05-20 | 2020-07-01 | IJCNN 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
@@ -19,7 +17,11 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Started | - | 2020-08-01 | CoG 2020   | [Strategy Card Game AI Competition](https://jakubkowalski.tech/Projects/LOCM/COG20/) |
 | Started | - | 2020-08-09 | CoG 2020   | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
 | Started | - | 2020-08-14 | CoG 2020   | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/#important-dates) |
+| Warm-Up | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
 | Started | - | - | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
+| Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
+| Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
+
 
 <sup>2</sup> Registration deadline on 2020-07-03
 
