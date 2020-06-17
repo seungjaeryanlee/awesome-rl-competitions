@@ -6,7 +6,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
-| Started | - | 2020-06-15 | WCCI 2020 | [Evoman: Game-playing Competition](http://pesquisa.ufabc.edu.br/hal/Evoman.html) |
 | Started | - | 2020-07-01 | CoG 2020   | [Hearthstone AI Competition](https://dockhorn.antares.uberspace.de/wordpress/) |
 | Started | 2020-05-20 | 2020-07-01 | IJCNN 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
 | Started | - | 2020-07-01 | CoG 2020   | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/home) |
@@ -52,5 +51,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2019-07-22 | 2020-01-05 | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
 | N/A     | 2020-03-08 | 2020-05-20<sup>1</sup> | ICRA 2020  | [GOSEEK Challenge](https://github.com/MIT-TESSE/goseek-challenge) |
 | N/A     | - | 2020-05-03 | N/A | [AI Snakes 2020](https://agrishchenko.wixsite.com/snakesai) |
+| Started | - | 2020-06-15 | WCCI 2020 | [Evoman: Game-playing Competition](http://pesquisa.ufabc.edu.br/hal/Evoman.html) |
 
 <sup>1</sup> Extension due to COVID-19
