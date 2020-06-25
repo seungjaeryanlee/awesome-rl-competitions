@@ -17,13 +17,15 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Started | - | 2020-08-09 | CoG 2020   | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
 | Started | - | 2020-08-14 | CoG 2020   | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/#important-dates) |
 | Started | -        | 2020-08-31 | N/A        | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
+| Warm-Up | 2020-06-01<sup>3</sup> | 2020-10-19<sup>3</sup> | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
 | Warm-Up | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
-| Started | - | - | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
 | Started | 2020-06 | 2020-11 | NeurIPS 2020 | [MineRL 2020 Competition](https://www.aicrowd.com/challenges/neurips-2020-minerl-competition) |
 | Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 
-<sup>2</sup> Registration deadline on 2020-07-03
+**Footnotes**
+- <sup>2</sup> Registration deadline on 2020-07-03
+- <sup>3</sup> Tentative schedule
 
 ## Upcoming Competitions
 
