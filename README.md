@@ -6,9 +6,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
-| Started | - | 2020-07-01 | CoG 2020   | [Hearthstone AI Competition](https://dockhorn.antares.uberspace.de/wordpress/) |
-| Started | 2020-05-20 | 2020-07-01 | IJCNN 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
-| Started | - | 2020-07-01 | CoG 2020   | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/home) |
 | Phase 1 | 2020-04-02 | 2020-07-17  | KDD 2020   | [KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform](https://outreach.didichuxing.com/competition/kddcup2020/) |
 | Started | 2020-02-17 | 2020-07-31  | PPSN 2020, IEEE COG 2020 | [GVGAI Learning Competition](http://www.aingames.cn/gvgai/ppsn_cog2020) |
 | Started | - | 2020-07-31<sup>2</sup>  | CoG 2020   | [StarCraft AI Competition 2020](https://cilab.gist.ac.kr/sc_competition/) |
@@ -17,8 +14,9 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Started | - | 2020-08-09 | CoG 2020   | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
 | Started | - | 2020-08-14 | CoG 2020   | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/#important-dates) |
 | Started | -        | 2020-08-31 | N/A        | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
-| Warm-Up | 2020-06-01<sup>3</sup> | 2020-10-19<sup>3</sup> | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
-| Warm-Up | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
+| Round 1 | 2020-06-01<sup>3</sup> | 2020-10-19<sup>3</sup> | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
+| Round 1 | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
+| Started | 2020-07-08 | 2020-10-20 | NeurIPS 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
 | Started | 2020-06 | 2020-11 | NeurIPS 2020 | [MineRL 2020 Competition](https://www.aicrowd.com/challenges/neurips-2020-minerl-competition) |
 | Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
@@ -31,7 +29,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status  | Begins     | Ends       | Conference | Competition |
 | ------- | ---------- | ---------- | ---------- | ----------- |
-| Prep    | 2020-07-08 | 2020-10-20 | NeurIPS 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
 | Prep    | TBD        | TBD         | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
 
 ## Past Competitions
@@ -53,6 +50,9 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2019-07-22 | 2020-01-05 | N/A | [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) |
 | N/A     | 2020-03-08 | 2020-05-20<sup>1</sup> | ICRA 2020  | [GOSEEK Challenge](https://github.com/MIT-TESSE/goseek-challenge) |
 | N/A     | - | 2020-05-03 | N/A | [AI Snakes 2020](https://agrishchenko.wixsite.com/snakesai) |
-| Started | - | 2020-06-15 | WCCI 2020 | [Evoman: Game-playing Competition](http://pesquisa.ufabc.edu.br/hal/Evoman.html) |
+| N/A     | - | 2020-06-15 | WCCI 2020 | [Evoman: Game-playing Competition](http://pesquisa.ufabc.edu.br/hal/Evoman.html) |
+| N/A     | - | 2020-07-01 | CoG 2020   | [Hearthstone AI Competition](https://dockhorn.antares.uberspace.de/wordpress/) |
+| N/A     | 2020-05-20 | 2020-07-01 | IJCNN 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
+| N/A     | - | 2020-07-01 | CoG 2020   | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/home) |
 
 <sup>1</sup> Extension due to COVID-19
