@@ -11,6 +11,7 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Started | - | 2020-08-01 | CoG 2020   | [Bot Bowl II](https://njustesen.github.io/ffai/bot-bowl-ii) |
 | Started | - | 2020-08-01 | CoG 2020   | [Strategy Card Game AI Competition](https://jakubkowalski.tech/Projects/LOCM/COG20/) |
 | Started | - | 2020-08-09 | CoG 2020   | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
+| Started | - | 2020-08-09 | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
 | Started | - | 2020-08-14 | CoG 2020   | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/#important-dates) |
 | Started | -        | 2020-08-31 | N/A        | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
 | Round 1 | 2020-06-01<sup>3</sup> | 2020-10-19<sup>3</sup> | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
@@ -28,7 +29,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status  | Begins     | Ends       | Conference | Competition |
 | ------- | ---------- | ---------- | ---------- | ----------- |
-| Prep    | TBD        | TBD         | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
 
 ## Past Competitions
 
