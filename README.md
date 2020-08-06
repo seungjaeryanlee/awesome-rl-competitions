@@ -18,7 +18,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 
 **Footnotes**
-- <sup>2</sup> Registration deadline on 2020-07-03
 - <sup>3</sup> Tentative schedule
 
 ## Upcoming Competitions
@@ -55,4 +54,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | - | 2020-08-01 | CoG 2020   | [Bot Bowl II](https://njustesen.github.io/ffai/bot-bowl-ii) |
 | N/A     | - | 2020-08-01 | CoG 2020   | [Strategy Card Game AI Competition](https://jakubkowalski.tech/Projects/LOCM/COG20/) |
 
-<sup>1</sup> Extension due to COVID-19
+**Footnotes**
+- <sup>1</sup> Extension due to COVID-19
+- <sup>2</sup> Registration deadline on 2020-07-03
