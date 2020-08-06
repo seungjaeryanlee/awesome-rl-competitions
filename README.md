@@ -6,10 +6,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
-| Started | 2020-02-17 | 2020-07-31  | PPSN 2020, IEEE COG 2020 | [GVGAI Learning Competition](http://www.aingames.cn/gvgai/ppsn_cog2020) |
-| Started | - | 2020-07-31<sup>2</sup>  | CoG 2020   | [StarCraft AI Competition 2020](https://cilab.gist.ac.kr/sc_competition/) |
-| Started | - | 2020-08-01 | CoG 2020   | [Bot Bowl II](https://njustesen.github.io/ffai/bot-bowl-ii) |
-| Started | - | 2020-08-01 | CoG 2020   | [Strategy Card Game AI Competition](https://jakubkowalski.tech/Projects/LOCM/COG20/) |
 | Started | - | 2020-08-09 | CoG 2020   | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
 | Started | - | 2020-08-09 | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
 | Started | - | 2020-08-14 | CoG 2020   | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/#important-dates) |
@@ -54,5 +50,9 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2020-05-20 | 2020-07-01 | IJCNN 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
 | N/A     | - | 2020-07-01 | CoG 2020   | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/home) |
 | N/A     | 2020-04-02 | 2020-07-17  | KDD 2020   | [KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform](https://outreach.didichuxing.com/competition/kddcup2020/) |
+| N/A     | 2020-02-17 | 2020-07-31  | PPSN 2020, IEEE COG 2020 | [GVGAI Learning Competition](http://www.aingames.cn/gvgai/ppsn_cog2020) |
+| N/A     | - | 2020-07-31<sup>2</sup>  | CoG 2020   | [StarCraft AI Competition 2020](https://cilab.gist.ac.kr/sc_competition/) |
+| N/A     | - | 2020-08-01 | CoG 2020   | [Bot Bowl II](https://njustesen.github.io/ffai/bot-bowl-ii) |
+| N/A     | - | 2020-08-01 | CoG 2020   | [Strategy Card Game AI Competition](https://jakubkowalski.tech/Projects/LOCM/COG20/) |
 
 <sup>1</sup> Extension due to COVID-19
