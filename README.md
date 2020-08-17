@@ -6,9 +6,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
-| Started | - | 2020-08-09 | CoG 2020   | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
-| Started | - | 2020-08-09 | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
-| Started | - | 2020-08-14 | CoG 2020   | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/#important-dates) |
 | Started | -        | 2020-08-31 | N/A        | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
 | Round 1 | 2020-06-01<sup>3</sup> | 2020-10-19<sup>3</sup> | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
 | Round 1 | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
@@ -53,6 +50,9 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | - | 2020-07-31<sup>2</sup>  | CoG 2020   | [StarCraft AI Competition 2020](https://cilab.gist.ac.kr/sc_competition/) |
 | N/A     | - | 2020-08-01 | CoG 2020   | [Bot Bowl II](https://njustesen.github.io/ffai/bot-bowl-ii) |
 | N/A     | - | 2020-08-01 | CoG 2020   | [Strategy Card Game AI Competition](https://jakubkowalski.tech/Projects/LOCM/COG20/) |
+| N/A     | - | 2020-08-09 | CoG 2020   | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
+| N/A     | - | 2020-08-09 | EAAI-21    | [Gin Rummy EAAI Undergraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) |
+| N/A     | - | 2020-08-14 | CoG 2020   | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/#important-dates) |
 
 **Footnotes**
 - <sup>1</sup> Extension due to COVID-19
