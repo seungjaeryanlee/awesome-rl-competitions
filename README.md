@@ -7,6 +7,7 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
 | Started | -        | 2020-08-31 | N/A        | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
+| Started | 2020-08-14 | 2020-10-14 | DAI 2020    | [SMARTS Competition of Autonomous Driving](https://www.drive-ml.com/competition/) |
 | Round 1 | 2020-06-01<sup>3</sup> | 2020-10-19<sup>3</sup> | NeurIPS 2020 | [Flatland Challenge](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/) |
 | Round 1 | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
 | Started | 2020-07-08 | 2020-10-20 | NeurIPS 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
