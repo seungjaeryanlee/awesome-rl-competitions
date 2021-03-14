@@ -7,6 +7,7 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Status  | Began      | Ends        | Conference | Competition |
 | ------- | ---------- | ----------- | ---------- | ----------- |
 | Running | N/A        | 2021-07-31  | IEEE COG 2021 | [GVGAI Learning Competition](http://aingames.cn/gvgai/cog2021/) |
+| Running | 2021-03-09 | TBA         | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
 | Running | N/A        | N/A         | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running | N/A        | N/A         | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 
