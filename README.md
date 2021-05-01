@@ -6,19 +6,22 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status      | Began      | Ends       | Conference | Competition |
 | ----------- | ---------- | ---------- | ---------- | ----------- |
-| Running     | -          | 2021-05-02 | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
-| Running     | 2021-03-01 | 2021-05-31 | AMLD 2021 | [The Flatland Challenge](https://www.aicrowd.com/challenges/flatland) |
-| Running     | N/A        | 2021-07-31 | IEEE COG 2021 | [GVGAI Learning Competition](http://aingames.cn/gvgai/cog2021/) |
-| Running     | 2021-03-09 | TBA        | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
-| Running     | N/A        | N/A        | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
-| Running     | N/A        | N/A        | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
+| Running     | 2021-03-09 | 2021-05-07 | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
+| Running     | -          | 2021-05-31<sup>+</sup> | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
 | Running     | -          | 2021-07-15 | IEEE COG 2021 | [Bot Bowl III](https://njustesen.github.io/ffai/bot-bowl-iii) |
+| Running     | -          | 2021-07-25 | IEEE COG 2021 | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/) |
+| Running     | 2021-04-15 | 2021-07-25 | N/A | [The CityLearn Challenge](https://sites.google.com/view/citylearnchallenge) |
+| Running     | -          | 2021-07-31 | IEEE COG 2021 | [GVGAI Learning Competition](http://aingames.cn/gvgai/cog2021/) |
+| Running     | 2021-03    | 2021-07    | IEEE COG 2021 | [An Open-Ended Challenge in Simple Complexity, Exploration, and Machine Creativity](https://rivesunder.github.io/carle/) |
 | Running     | -          | 2021-08-01 | IEEE COG 2021 | [Strategy Card Game AI Competition](https://legendsofcodeandmagic.com/COG21/) |
 | Running     | -          | 2021-08-03 | IEEE COG 2021 | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
-| Running     | -          | 2021-08-08 | IEEE COG 2021 | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/) |
-| Running     | 2021-03    | 2021-07    | IEEE COG 2021 | [An Open-Ended Challenge in Simple Complexity, Exploration, and Machine Creativity](https://rivesunder.github.io/carle/) |
+| Running     | 2021-03-01 | TBA        | AMLD 2021, ICAPS 2021 | [The Flatland Challenge](https://www.aicrowd.com/challenges/flatland) |
+| Running     | N/A        | N/A        | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
+| Running     | N/A        | N/A        | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
+
 
 **Footnotes**
+- <sup>+</sup>: Deadline extended
 
 ## Upcoming Competitions
 
@@ -31,7 +34,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [Tactile Games Playtest Agent](https://aicompetition.tactilegames.com/about/) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [StarCraft AI Competition](https://cilab.gist.ac.kr/sc_competition/) |
-| Coming Soon | TBA        | TBA        | ICAPS 2021 | [The Flatland Challenge](https://www.aicrowd.com/challenges/flatland) |
 
 ## Past Competitions
 
@@ -70,9 +72,3 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
 | N/A     | 2020-07-08 | 2020-10-20 | NeurIPS 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
 | N/A     | 2020-06 | 2021-01 | NeurIPS 2020 | [MineRL 2020 Competition](https://www.aicrowd.com/challenges/neurips-2020-minerl-competition) |
-
-
-**Footnotes**
-- <sup>1</sup> Extension due to COVID-19
-- <sup>2</sup> Registration deadline on 2020-07-03
-- <sup>3</sup> Tentative schedule
