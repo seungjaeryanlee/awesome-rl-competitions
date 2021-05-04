@@ -9,6 +9,8 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running     | 2021-03-09 | 2021-05-07 | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
 | Running     | -          | 2021-05-31<sup>+</sup> | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
 | Running     | -          | 2021-07-15 | IEEE COG 2021 | [Bot Bowl III](https://njustesen.github.io/ffai/bot-bowl-iii) |
+| Running     | 2021-05-01 | 2021-07-15 | ICAPS 2021 | [The Dynamic Pickup And Delivery Problem](https://competition.huaweicloud.com/information/1000041411/introduction) |
+| Running     | 2021-04-21 | 2021-07-16 | IJCAI 2021 | [Automatic Reinforcement Learning for Dynamic JobShop Scheduling Problem](https://www.4paradigm.com/content/details_85_2026.html) |
 | Running     | -          | 2021-07-25 | IEEE COG 2021 | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/) |
 | Running     | 2021-04-15 | 2021-07-25 | N/A | [The CityLearn Challenge](https://sites.google.com/view/citylearnchallenge) |
 | Running     | -          | 2021-07-31 | IEEE COG 2021 | [GVGAI Learning Competition](http://aingames.cn/gvgai/cog2021/) |
@@ -18,6 +20,10 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running     | 2021-03-01 | TBA        | AMLD 2021, ICAPS 2021 | [The Flatland Challenge](https://www.aicrowd.com/challenges/flatland) |
 | Running     | N/A        | N/A        | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running     | N/A        | N/A        | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
+
+
+
+
 
 
 **Footnotes**
@@ -34,6 +40,9 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [Tactile Games Playtest Agent](https://aicompetition.tactilegames.com/about/) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [StarCraft AI Competition](https://cilab.gist.ac.kr/sc_competition/) |
+| Coming Soon | TBA        | TBA        | ICAPS 2021 | [Autonomous Driving Prediction Challenge](https://icaps21.icaps-conference.org/Competitions/) |
+| Coming Soon | 2021-06-25 | TBA        | ICAPS 2021 | [L2RPN with Trust: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
+
 
 ## Past Competitions
 
