@@ -6,7 +6,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status      | Began      | Ends       | Conference | Competition |
 | ----------- | ---------- | ---------- | ---------- | ----------- |
-| Running     | 2021-03-09 | 2021-05-07 | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
 | Running     | -          | 2021-05-31<sup>+</sup> | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
 | Running     | -          | 2021-07-15 | IEEE COG 2021 | [Bot Bowl III](https://njustesen.github.io/ffai/bot-bowl-iii) |
 | Running     | 2021-05-01 | 2021-07-15 | ICAPS 2021 | [The Dynamic Pickup And Delivery Problem](https://competition.huaweicloud.com/information/1000041411/introduction) |
@@ -21,13 +20,13 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running     | N/A        | N/A        | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running     | N/A        | N/A        | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 
-
-
-
-
-
 **Footnotes**
 - <sup>+</sup>: Deadline extended
+
+
+
+
+
 
 ## Upcoming Competitions
 
@@ -81,3 +80,4 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2020-06-03 | 2020-10-19 | NeurIPS 2020 | [Procgen Competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition) |
 | N/A     | 2020-07-08 | 2020-10-20 | NeurIPS 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
 | N/A     | 2020-06 | 2021-01 | NeurIPS 2020 | [MineRL 2020 Competition](https://www.aicrowd.com/challenges/neurips-2020-minerl-competition) |
+| N/A     | 2021-03-09 | 2021-05-07 | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
