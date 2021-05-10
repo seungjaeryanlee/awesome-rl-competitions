@@ -7,6 +7,7 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Status      | Began      | Ends       | Conference | Competition |
 | ----------- | ---------- | ---------- | ---------- | ----------- |
 | Running     | -          | 2021-05-31<sup>+</sup> | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
+| Running     | 2021-02-17 | 2021-05-31 | N/A | [Habitat Challenge 2021](https://aihabitat.org/challenge/2021/) |
 | Running     | -          | 2021-07-15 | IEEE COG 2021 | [Bot Bowl III](https://njustesen.github.io/ffai/bot-bowl-iii) |
 | Running     | 2021-05-01 | 2021-07-15 | ICAPS 2021 | [The Dynamic Pickup And Delivery Problem](https://competition.huaweicloud.com/information/1000041411/introduction) |
 | Running     | 2021-04-21 | 2021-07-16 | IJCAI 2021 | [Automatic Reinforcement Learning for Dynamic JobShop Scheduling Problem](https://www.4paradigm.com/content/details_85_2026.html) |
