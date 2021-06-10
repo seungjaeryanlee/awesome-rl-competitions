@@ -9,13 +9,17 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running     | -          | 2021-07-15 | IEEE COG 2021 | [Bot Bowl III](https://njustesen.github.io/ffai/bot-bowl-iii) |
 | Running     | 2021-05-01 | 2021-07-15 | ICAPS 2021 | [The Dynamic Pickup And Delivery Problem](https://competition.huaweicloud.com/information/1000041411/introduction) |
 | Running     | 2021-04-21 | 2021-07-16 | IJCAI 2021 | [Automatic Reinforcement Learning for Dynamic JobShop Scheduling Problem](https://www.4paradigm.com/content/details_85_2026.html) |
+| Coming Soon | TBA        | 2021-07-20 | IEEE COG 2021 | [AI Snakes 2021](https://agrishchenko.wixsite.com/aisnakes2021) |
 | Running     | -          | 2021-07-25 | IEEE COG 2021 | [ColorShapeLinks AI competition](https://videojogoslusofona.github.io/color-shape-links-ai-competition/) |
 | Running     | 2021-04-15 | 2021-07-25 | N/A | [The CityLearn Challenge](https://sites.google.com/view/citylearnchallenge) |
+| Coming Soon | TBA        | 2021-07-25 | IEEE COG 2021 | [StarCraft AI Competition](https://cilab.gist.ac.kr/sc_competition/) |
+| Coming Soon | TBA        | 2021-07-29 | IEEE COG 2021 | [Fighting Game AI Competition](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm) |
 | Running     | -          | 2021-07-31 | IEEE COG 2021 | [GVGAI Learning Competition](http://aingames.cn/gvgai/cog2021/) |
 | Running     | 2021-03    | 2021-07    | IEEE COG 2021 | [An Open-Ended Challenge in Simple Complexity, Exploration, and Machine Creativity](https://rivesunder.github.io/carle/) |
 | Running     | -          | 2021-08-01 | IEEE COG 2021 | [Strategy Card Game AI Competition](https://legendsofcodeandmagic.com/COG21/) |
 | Running     | -          | 2021-08-03 | IEEE COG 2021 | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
 | Running     | 2021-03-01 | TBA        | AMLD 2021, ICAPS 2021 | [The Flatland Challenge](https://www.aicrowd.com/challenges/flatland) |
+| Running     | 2021-06-09 | TBA        | NeurIPS 2021 | [MineRL Diamond Challenge: Training Sample-Efficient Agents in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition) |
 | Running     | N/A        | N/A        | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running     | N/A        | N/A        | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
 
@@ -31,15 +35,13 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status      | Begins     | Ends       | Conference | Competition |
 | ----------- | ---------- | ---------- | ---------- | ----------- |
-| Coming Soon | TBA        | TBA        | IEEE COG 2021 | [AI Snakes 2021](https://agrishchenko.wixsite.com/aisnakes2021) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [AI Space Invaders 2021](https://agrishchenko.wixsite.com/space2021) |
-| Coming Soon | TBA        | TBA        | IEEE COG 2021 | [Fighting Game AI Competition](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [Abstract Forward Models for Modern Games](https://gaigresearch.github.io/afm/competition/) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [Tactile Games Playtest Agent](https://aicompetition.tactilegames.com/about/) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/) |
-| Coming Soon | TBA        | TBA        | IEEE COG 2021 | [StarCraft AI Competition](https://cilab.gist.ac.kr/sc_competition/) |
 | Coming Soon | TBA        | TBA        | ICAPS 2021 | [Autonomous Driving Prediction Challenge](https://icaps21.icaps-conference.org/Competitions/) |
 | Coming Soon | 2021-06-25 | TBA        | ICAPS 2021 | [L2RPN with Trust: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
+| Running     | TBA        | TBA        | NeurIPS 2021 | [MineRL Benchmark for Agents that Solve Almost-Lifelike Tasks](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition) |
 
 
 ## Past Competitions
@@ -80,5 +82,5 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2020-07-08 | 2020-10-20 | NeurIPS 2020   | [Learning To Run a Power Network Challenge](https://l2rpn.chalearn.org/) |
 | N/A     | 2020-06 | 2021-01 | NeurIPS 2020 | [MineRL 2020 Competition](https://www.aicrowd.com/challenges/neurips-2020-minerl-competition) |
 | N/A     | 2021-03-09 | 2021-05-07 | CVPR 2021  | [Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications) |
-| Running     | -          | 2021-05-31<sup>+</sup> | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
+| Running     | -          | 2021-05-31 | IEEE COG 2021 | [The Dota 2 5v5 AI Competition](https://games.mau.se/research/the-dota2-5v5-ai-competition/) |
 | Running     | 2021-02-17 | 2021-05-31 | N/A | [Habitat Challenge 2021](https://aihabitat.org/challenge/2021/) |
