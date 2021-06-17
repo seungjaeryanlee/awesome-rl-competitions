@@ -26,11 +26,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 **Footnotes**
 - <sup>+</sup>: Deadline extended
 
-
-
-
-
-
 ## Upcoming Competitions
 
 | Status      | Begins     | Ends       | Conference | Competition |
@@ -41,8 +36,8 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/) |
 | Coming Soon | TBA        | TBA        | ICAPS 2021 | [Autonomous Driving Prediction Challenge](https://icaps21.icaps-conference.org/Competitions/) |
 | Coming Soon | 2021-06-25 | TBA        | ICAPS 2021 | [L2RPN with Trust: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
-| Running     | TBA        | TBA        | NeurIPS 2021 | [MineRL Benchmark for Agents that Solve Almost-Lifelike Tasks](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition) |
-
+| Coming Soon | TBA        | TBA        | NeurIPS 2021 | [MineRL Benchmark for Agents that Solve Almost-Lifelike Tasks](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition) |
+| Coming Soon | TBA        | TBA        | NeurIPS 2021 | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/neurips2021) |
 
 ## Past Competitions
 
