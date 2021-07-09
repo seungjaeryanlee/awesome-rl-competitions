@@ -18,10 +18,13 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running     | 2021-03    | 2021-07    | IEEE COG 2021 | [An Open-Ended Challenge in Simple Complexity, Exploration, and Machine Creativity](https://rivesunder.github.io/carle/) |
 | Running     | -          | 2021-08-01 | IEEE COG 2021 | [Strategy Card Game AI Competition](https://legendsofcodeandmagic.com/COG21/) |
 | Running     | -          | 2021-08-03 | IEEE COG 2021 | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
+| Running     | 2021-07-01 | 2022-09-22 | ICAPS 2021 | [L2RPN: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
+| Running     | 2021-07-07 | 2021-10-15 | NeurIPS 2021 | [MineRL BASALT Challenge: Learning from Human Feedback in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition) |
+| Running     | 2021-06-09 | 2021-10    | NeurIPS 2021 | [MineRL Diamond Challenge: Training Sample-Efficient Agents in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition) |
 | Running     | 2021-03-01 | TBA        | AMLD 2021, ICAPS 2021 | [The Flatland Challenge](https://www.aicrowd.com/challenges/flatland) |
-| Running     | 2021-06-09 | TBA        | NeurIPS 2021 | [MineRL Diamond Challenge: Training Sample-Efficient Agents in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition) |
 | Running     | N/A        | N/A        | N/A        | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running     | N/A        | N/A        | N/A        | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
+
 
 **Footnotes**
 - <sup>+</sup>: Deadline extended
@@ -35,8 +38,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [Tactile Games Playtest Agent](https://aicompetition.tactilegames.com/about/) |
 | Coming Soon | TBA        | TBA        | IEEE COG 2021 | [microRTS AI Competition](https://sites.google.com/site/micrortsaicompetition/) |
 | Coming Soon | TBA        | TBA        | ICAPS 2021 | [Autonomous Driving Prediction Challenge](https://icaps21.icaps-conference.org/Competitions/) |
-| Coming Soon | 2021-06-25 | TBA        | ICAPS 2021 | [L2RPN with Trust: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
-| Coming Soon | TBA        | TBA        | NeurIPS 2021 | [MineRL Benchmark for Agents that Solve Almost-Lifelike Tasks](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition) |
 | Coming Soon | TBA        | TBA        | NeurIPS 2021 | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/neurips2021) |
 
 ## Past Competitions
