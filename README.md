@@ -6,6 +6,7 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status      | Began      | Ends       | Conference | Competition |
 | ----------- | ---------- | ---------- | ---------- | ----------- |
+| Running     | 2021-07-01 | 2021-09    | N/A | [ITU Artificial Intelligence/Machine Learning in 5G Challenge](https://ai5gchallenge.ufpa.br/) |
 | Running     | 2021-07-01 | 2021-09-22 | ICAPS 2021 | [L2RPN: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
 | Running     | 2021-07-07 | 2021-10-15 | NeurIPS 2021 | [MineRL BASALT Challenge: Learning from Human Feedback in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition) |
 | Running     | 2021-06-09 | 2021-10    | NeurIPS 2021 | [MineRL Diamond Challenge: Training Sample-Efficient Agents in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition) |
