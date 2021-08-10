@@ -15,6 +15,7 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | Running     | 2021-07-26 | 2021-10-15 | NeurIPS 2022 | [Interactive Grounded Language Understanding in a Collaborative Environment](https://www.iglu-contest.net/home) |
 | Running     | 2021-06-09 | 2021-10-15 | NeurIPS 2022 | [The NetHack Challenge](https://nethackchallenge.com/) |
 | Running     | 2021-07-01 | 2021-10-21 | NeurIPS 2022 | [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/) |
+| Running     | 2021-07-09 | 2021-11-19 | N/A          | [Hidden Information Games Competition (HIGC)](http://higcompetition.info/) |
 | Running?    | TBA        | TBA        | NeurIPS 2022 | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
 | Running?    | TBA        | TBA        | NeurIPS 2022 | [The AI Driving Olympics](https://driving-olympics.ai/) |
 | Running     | N/A        | N/A        | N/A          | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
