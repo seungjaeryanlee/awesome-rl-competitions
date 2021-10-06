@@ -6,16 +6,13 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status      | Began      | Ends       | Conference   | Competition |
 | ----------- | ---------- | ---------- | ------------ | ----------- |
-| Running     | 2021-07-01 | 2021-09    | N/A          | [ITU Artificial Intelligence/Machine Learning in 5G Challenge](https://ai5gchallenge.ufpa.br/) |
-| Running     | 2021-07-01 | 2021-09-22 | ICAPS 2021   | [L2RPN: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
-| Running     | 2021-07-06 | 2021-09-26 | NeurIPS 2022 | [Learning By Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality](https://learningbydoingcompetition.github.io/) |
-| Running     | 2021-06-09 | 2021-10    | NeurIPS 2022 | [MineRL Diamond Challenge: Training Sample-Efficient Agents in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition) |
 | Running     | 2021-07-01 | 2021-10-14 | N/A          | [Neural-MMO Challenge](https://www.aicrowd.com/challenges/the-neural-mmo-challenge) |
-| Running     | 2021-09-01 | 2021-10-15 | N/A          | [Flatland 3](https://www.aicrowd.com/challenges/flatland-3/) |
+| Running     | 2021-06-09 | 2021-10-15 | NeurIPS 2022 | [MineRL Diamond Challenge: Training Sample-Efficient Agents in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition) |
 | Running     | 2021-07-07 | 2021-10-15 | NeurIPS 2022 | [MineRL BASALT Challenge: Learning from Human Feedback in Minecraft](https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition) |
 | Running     | 2021-07-26 | 2021-10-15 | NeurIPS 2022 | [Interactive Grounded Language Understanding in a Collaborative Environment](https://www.iglu-contest.net/home) |
 | Running     | 2021-06-09 | 2021-10-15 | NeurIPS 2022 | [The NetHack Challenge](https://nethackchallenge.com/) |
 | Running     | 2021-07-01 | 2021-10-21 | NeurIPS 2022 | [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/) |
+| Running     | 2021-09-17 | 2021-10-31 | N/A          | [Flatland 3](https://www.aicrowd.com/challenges/flatland-3/) |
 | Running     | 2021-07-09 | 2021-11-19 | N/A          | [Hidden Information Games Competition (HIGC)](http://higcompetition.info/) |
 | Running?    | TBA        | TBA        | NeurIPS 2022 | [Reconnaissance Blind Chess](https://rbc.jhuapl.edu/) |
 | Running?    | TBA        | TBA        | NeurIPS 2022 | [The AI Driving Olympics](https://driving-olympics.ai/) |
@@ -89,3 +86,6 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2021-03    | 2021-07    | IEEE COG 2021 | [An Open-Ended Challenge in Simple Complexity, Exploration, and Machine Creativity](https://rivesunder.github.io/carle/) |
 | N/A     | -          | 2021-08-01 | IEEE COG 2021 | [Strategy Card Game AI Competition](https://legendsofcodeandmagic.com/COG21/) |
 | N/A     | -          | 2021-08-03 | IEEE COG 2021 | [Ludii AI Competition](https://github.com/Ludeme/LudiiAICompetition) |
+| N/A     | 2021-07-01 | 2021-09    | N/A          | [ITU Artificial Intelligence/Machine Learning in 5G Challenge](https://ai5gchallenge.ufpa.br/) |
+| N/A     | 2021-07-01 | 2021-09-22 | ICAPS 2021   | [L2RPN: Learning to Run a Power Network](https://icaps21.icaps-conference.org/Competitions/) |
+| N/A     | 2021-07-06 | 2021-09-26 | NeurIPS 2022 | [Learning By Doing: Controlling a Dynamical System using Control Theory, Reinforcement Learning, or Causality](https://learningbydoingcompetition.github.io/) |
