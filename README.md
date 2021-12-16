@@ -6,8 +6,7 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 
 | Status      | Began      | Ends       | Conference   | Competition |
 | ----------- | ---------- | ---------- | ------------ | ----------- |
-| Running     | 2021-07-09 | 2021-11-19 | N/A          | [Hidden Information Games Competition (HIGC)](http://higcompetition.info/) |
-| Running     | 2021-08-16 | 2021-12-06 | N/A          | [Lux AI](https://www.kaggle.com/c/lux-ai-2021/) |
+| Running     | 2021-08-16 | 2021-12-20 | N/A          | [Lux AI](https://www.kaggle.com/c/lux-ai-2021/) |
 | Running     | 2021-12-03 | 2022-03    | N/A          | [Coder One Bomberland](https://www.gocoder.one/bomberland) |
 | Running     | N/A        | N/A        | N/A          | [AWS DeepRacer League](https://aws.amazon.com/deepracer/league/) |
 | Running     | N/A        | N/A        | N/A          | [Kaggle Connect X](https://www.kaggle.com/c/connectx) |
@@ -89,3 +88,4 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2021-06-09 | 2021-10-15 | NeurIPS 2022 | [The NetHack Challenge](https://nethackchallenge.com/) |
 | N/A     | 2021-07-01 | 2021-10-21 | NeurIPS 2022 | [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/) |
 | N/A     | 2021-09-17 | 2021-10-31 | N/A          | [Flatland 3](https://www.aicrowd.com/challenges/flatland-3/) |
+| N/A     | 2021-07-09 | 2021-11-19 | N/A          | [Hidden Information Games Competition (HIGC)](http://higcompetition.info/) |
