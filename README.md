@@ -88,4 +88,4 @@ Collection of competitions for Reinforcement Learning. Competitions are sorted b
 | N/A     | 2021-06-09 | 2021-10-15 | NeurIPS 2022 | [The NetHack Challenge](https://nethackchallenge.com/) |
 | N/A     | 2021-07-01 | 2021-10-21 | NeurIPS 2022 | [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/) |
 | N/A     | 2021-09-17 | 2021-10-31 | N/A          | [Flatland 3](https://www.aicrowd.com/challenges/flatland-3/) |
-| N/A     | 2021-07-09 | 2021-11-19 | N/A          | [Hidden Information Games Competition (HIGC)](http://higcompetition.info/) |
+| N/A     | 2021-07-09 | 2021-11-19 | N/A          | Hidden Information Games Competition (HIGC) |
